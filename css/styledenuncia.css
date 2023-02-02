@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  label,
+  input[type="submit"] {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
